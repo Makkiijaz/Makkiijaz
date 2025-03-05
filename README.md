@@ -51,13 +51,7 @@ I believe in **clean and scalable code**, implementing robust **architecture pat
 
 ---
 
-## 🌟 Featured Projects
-🚀 Check out some of my awesome Flutter projects:
-1. **[Project Name 1](https://github.com/yourusername/project1)** - 📱 A beautiful Flutter app using Clean Architecture + BLoC.
-2. **[Project Name 2](https://github.com/yourusername/project2)** - 🛒 E-commerce app with GetX & Firebase.
-3. **[Project Name 3](https://github.com/yourusername/project3)** - 🎨 A UI-rich Flutter project with Riverpod.
 
----
 
 ## 📈 GitHub Stats
 <p align="center">
